@@ -1,8 +1,8 @@
 ---
-title: Fuze Lesson Review 8
+title: Code Academy Python Week 1
 layout: post
 author: mark.calderan
-permalink: /fuze-lesson-review-8/
+permalink: /Code-Academy-Python-Week-1/
 source-id: 1-FWBEI48zNn6tTHYW2MpRULzXLnbunG5Y-hqHfWTX_M
 published: true
 ---
