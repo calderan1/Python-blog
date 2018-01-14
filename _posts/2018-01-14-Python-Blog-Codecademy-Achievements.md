@@ -3,6 +3,7 @@ title: Python Blog Codecademy Achievements
 layout: post
 author: mark.calderan
 permalink: /python-blog-codecademy-achievements/
+[I'm an inline-style link](https://www.google.com)
 source-id: 1-sviHB4MIa0_z_agaHgERNnlL5x4wmlko-fWa2aok-g
 published: true
 ---
