@@ -29,10 +29,10 @@ published: true
 </td>
   </tr>
   <tr>
-    <td>Link:</td>
+    <td></td>
   </tr>
   <tr>
-    <td><https://www.codecademy.com/users/mookiemoo22/achievements></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -44,4 +44,6 @@ published: true
 
 
 <[https://www.codecademy.com/users/mookiemoo22/achievements](https://www.codecademy.com/users/mookiemoo22/achievements)>
+
+<[https://docs.google.com/document/d/1_CqZEXYOmHykqKyPHLX45KA8G0WK3kHqx_4MgMWvtA4/](https://docs.google.com/document/d/1_CqZEXYOmHykqKyPHLX45KA8G0WK3kHqx_4MgMWvtA4/)>
 
