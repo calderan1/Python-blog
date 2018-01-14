@@ -3,7 +3,6 @@ title: Python Blog Codecademy Achievements
 layout: post
 author: mark.calderan
 permalink: /python-blog-codecademy-achievements/
-![Achievements](Python-blog/images/jekyll-logo.png){:class="img-responsive"}
 source-id: 1-sviHB4MIa0_z_agaHgERNnlL5x4wmlko-fWa2aok-g
 published: true
 ---
