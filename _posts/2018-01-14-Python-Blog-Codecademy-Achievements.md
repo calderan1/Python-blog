@@ -50,7 +50,5 @@ published: true
 
 <[https://docs.google.com/document/d/1_CqZEXYOmHykqKyPHLX45KA8G0WK3kHqx_4MgMWvtA4/edit?usp=sharing](https://docs.google.com/document/d/1_CqZEXYOmHykqKyPHLX45KA8G0WK3kHqx_4MgMWvtA4/edit?usp=sharing)>
 
-![Achievements](https://calderan1.github.io/Python-blog/images)/jekyll-logo.png)
-
-![Achievements]({{"/[images](https://github.com/calderan1/Python-blog/tree/master/images)/jekyll-logo.png" ¦ absolute_url }})
+![Achievements]({{"https://calderan1.github.io/Python-blog/images)/jekyll-logo.png" ¦ absolute_url }})
 
