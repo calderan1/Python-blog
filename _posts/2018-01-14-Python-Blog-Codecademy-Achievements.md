@@ -3,7 +3,7 @@ title: Python Blog Codecademy Achievements
 layout: post
 author: mark.calderan
 permalink: /python-blog-codecademy-achievements/
-[I'm an inline-style link](https://www.google.com)
+![Achievements](Python-blog/images/jekyll-logo.png){:class="img-responsive"}
 source-id: 1-sviHB4MIa0_z_agaHgERNnlL5x4wmlko-fWa2aok-g
 published: true
 ---
@@ -33,7 +33,10 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+
+
+</td>
   </tr>
   <tr>
     <td></td>
@@ -47,4 +50,6 @@ published: true
 <[https://www.codecademy.com/users/mookiemoo22/achievements](https://www.codecademy.com/users/mookiemoo22/achievements)>
 
 <[https://docs.google.com/document/d/1_CqZEXYOmHykqKyPHLX45KA8G0WK3kHqx_4MgMWvtA4/edit?usp=sharing](https://docs.google.com/document/d/1_CqZEXYOmHykqKyPHLX45KA8G0WK3kHqx_4MgMWvtA4/edit?usp=sharing)>
+
+![Achievements]([Python-blog](https://github.com/calderan1/Python-blog)/[images](https://github.com/calderan1/Python-blog/tree/master/images)/jekyll-logo.png){:class="img-responsive"}
 
