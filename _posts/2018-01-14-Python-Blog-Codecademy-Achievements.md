@@ -16,10 +16,6 @@ published: true
 </table>
 
 
-<[https://www.codecademy.com/users/mookiemoo22/achievements](https://www.codecademy.com/users/mookiemoo22/achievements)>
-
-[Link] ([https://www.codecademy.com/users/mookiemoo22/achievements](https://www.codecademy.com/users/mookiemoo22/achievements) "Achievements")
-
 <table>
   <tr>
     <td>Achievement Certificates
@@ -33,10 +29,10 @@ published: true
 </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Link:</td>
   </tr>
   <tr>
-    <td></td>
+    <td><https://www.codecademy.com/users/mookiemoo22/achievements></td>
   </tr>
   <tr>
     <td></td>
