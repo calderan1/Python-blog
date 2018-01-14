@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Python Bolg Week 1</td>
+    <td>Python Blog Week 1</td>
     <td>Date</td>
     <td>01/12/17</td>
   </tr>
