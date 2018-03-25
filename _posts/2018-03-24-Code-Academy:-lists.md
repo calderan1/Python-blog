@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I used the hint a lot, which is usually very useful, as it gives you a hint (hence its name) about what the code is meant to look like, without giving it totally away. Then, something else I was finding useful was the get code button. This can be misused, and just used to give you the code by just spamming the run button. However I used this button only when I could not work it out or no one could help me. In fact I clicked the No Way button more tha the get ode button.</td>
+    <td>I used the hint a lot, which is usually very useful, as it gives you a hint (hence its name) about what the code is meant to look like, without giving it totally away. Then, something else I was finding useful was the get code button. This can be misused, and just used to give you the code by just spamming the run button. However I used this button only when I could not work it out or no one could help me. In fact I clicked the No Way button more than the get ode button.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
