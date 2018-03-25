@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I was persevering a little too much when getting the answer was the better option. For example I refrained from asking my partner, because I thought I could work the code out, whe actually asking would have been better. Having said this, I need to persevere when it is the most efficient.
+    <td>I was persevering a little too much when getting the answer was the better option. For example I refrained from asking my partner, because I thought I could work the code out, when actually asking would have been better. Having said this, I need to persevere when it is the most efficient.
        </td>
   </tr>
   <tr>
